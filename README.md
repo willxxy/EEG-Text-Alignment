@@ -55,7 +55,7 @@ results
 
 ### Preprocessing data
 
-In the preprocessed folder, preprocessed data is readily available for usage. 
+Please download the preprocessed data at this [link](https://drive.google.com/drive/folders/1JAsCwlcwme5xrSGRkTUauITzD3FXYMyd?usp=sharing) 
 For K-EmoCon, df.csv is used. For ZuCo sentiment analysis and relation detection, respective csv's for sentence-level, word-level, and concat word-level are provided. 
 
 Preprocessing scripts are provided as well. 
